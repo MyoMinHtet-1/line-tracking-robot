@@ -15,3 +15,6 @@ The code works by utilizing 3 IR sensors. Through each void loop() function, it 
 ![image](https://github.com/user-attachments/assets/7b94dd88-ace6-4a20-bbbc-b9bc874d4d37)
 ![image](https://github.com/user-attachments/assets/059233ab-ee6d-4fd1-b56b-c810effe6f4b)
 ![image](https://github.com/user-attachments/assets/0d39f86f-7573-4465-8d79-c2facff17a39)
+![image](https://github.com/user-attachments/assets/67a2fc09-fc26-4a17-a67b-10c943137b8f)
+![image](https://github.com/user-attachments/assets/6c45aeb9-4755-4c5d-9a83-aa62f8fbb65e)
+
