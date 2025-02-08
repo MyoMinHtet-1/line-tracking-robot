@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/a4e9add5-544f-4fd8-aa17-e033e71dd8f4)# line-tracking-robot
-A basic line tracking bot that utilizes a strict rule based controller. 
+**A basic line tracking bot that utilizes a strict rule based controller. **
 Materials used: 
 • 2 motors
 • 2 wheels
